@@ -1,0 +1,9 @@
+# IDE
+.idea
+# 가상 환경
+venv
+# DS_Store
+.DS_Store
+
+*.zip
+
